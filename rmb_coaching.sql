@@ -116,11 +116,7 @@ CREATE TABLE `users` (
 
 INSERT INTO `users` (`Id`, `FullName`, `Email`, `PhoneNumber`, `PasswordHash`, `Role`, `CreatedAt`) VALUES
 (1, 'Admin', 'admin@rmb.hu', '0101010101', '100000.qR70+UoFRNMltYvcx0EVXg==.4ur/KP3Hs9ngtBLs53BjAi5Sqch452xpTPRrOMB5vJA=', 'Admin', '2026-04-14 20:12:49'),
-(2, 'balazs', 'balazs@balazs', 'balazs', '100000.5X4VpzM8Sh0P1I1K4sCsOQ==.vPHS0JeOj5oCGt0R1+gOdLhzQMKIbS5Wl5fjdDPC5Hs=', 'User', '2026-04-06 14:33:40'),
-(3, 'botond', 'botond@botond.com', '06111111111', '100000.WjnVItBWm9SC+b+HSvw0QQ==.zaN+r3lkyzBs5sj99v6tXgpYVJQH+MjTtWMKg49dfDw=', 'Admin', '2026-04-08 18:56:50'),
-(4, 'balazs', 'balazs@balazs.balazs', 'balazs', '100000.dEFLVuJFRa6T67N7i3bQjg==.7EXJ4cYdmu3GhG7yK9edBcLWhiwPb8OVAh+2oLZZbww=', 'Admin', '2026-04-06 14:09:31'),
-(5, 'teszt', 'teszt@teszt.com', 'teszt', '100000.7GD9GSzN5UHjrR1JoN/4GQ==.uSLWmJtPMOSwsRipd+wlMfzegh+0uYxwtmfixQ5XA9Q=', 'User', '2026-04-10 10:59:33'),
-(7, 'bot', 'bot@bot', 'bot', '100000.DQa7hoGgVlBSW8fXVUighg==.u7hMgqeybe5LhNwuDU9y+H+robjEdK3SKbPisfpsjiM=', 'Admin', '2026-04-10 21:46:26');
+(5, 'teszt', 'teszt@teszt.com', 'teszt', '100000.7GD9GSzN5UHjrR1JoN/4GQ==.uSLWmJtPMOSwsRipd+wlMfzegh+0uYxwtmfixQ5XA9Q=', 'User', '2026-04-10 10:59:33');
 --
 -- Indexes for dumped tables
 --
